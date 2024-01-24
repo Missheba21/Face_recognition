@@ -21,6 +21,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a python script
-        run: python .github/workflows/01_face_dataset.py
+        run: python .github/workflows/cv2.pyd
+    
 
       
